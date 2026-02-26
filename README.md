@@ -12,4 +12,4 @@ npm start       # Terminal 2
 
 ## Customize
 
-Edit `data/questions.json` to change questions.
+Edit `data/questions.json` to change questions and answers.
