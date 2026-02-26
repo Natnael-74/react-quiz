@@ -1,13 +1,13 @@
 {
   "questions": [
     {
-      "question": "Which is the most popular JavaScript framework?",
+      "question": "Which is the most popular JavaScript framework ?",
       "options": ["Angular", "React", "Svelte", "Vue"],
       "correctOption": 1,
       "points": 10
     },
     {
-      "question": "Which company invented React?",
+      "question": "Which company invented React ?",
       "options": ["Google", "Apple", "Netflix", "Facebook"],
       "correctOption": 3,
       "points": 10
@@ -20,7 +20,7 @@
     },
     {
       "question": "What's the name of the syntax we use to describe the UI in React components?",
-      "options": ["FBJ", "Babel", "JSX", "ES2015"],
+      "options": ["JS", "Babel", "JSX", "ES2015"],
       "correctOption": 2,
       "points": 10
     },
@@ -42,7 +42,7 @@
       "points": 10
     },
     {
-      "question": "When to use derived state?",
+      "question": "When to use derived state ?",
       "options": [
         "Whenever the state should not trigger a re-render",
         "Whenever the state can be synchronized with an effect",
