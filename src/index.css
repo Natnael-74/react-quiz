@@ -253,8 +253,6 @@ progress {
   }
 }
 
-/* ********** */
-/* First counter example */
 .counter {
   display: flex;
   flex-direction: column;
@@ -269,9 +267,7 @@ progress {
   font-size: inherit;
   padding: 0.8rem;
 }
-/**************************/
-/* BELOW 1200px (Landscape Tablets) */
-/**************************/
+/** (Landscape Tablets) */
 
 @media (max-width: 75em) {
   html {
@@ -297,9 +293,7 @@ progress {
   }
 }
 
-/**************************/
-/* BELOW 864px (Tablets) */
-/**************************/
+/* (Tablets) */
 
 @media (max-width: 54em) {
   html {
@@ -331,9 +325,7 @@ progress {
   }
 }
 
-/**************************/
-/* BELOW 544px (Phones) */
-/**************************/
+/* (Phones) */
 
 @media (max-width: 34em) {
   .main {
